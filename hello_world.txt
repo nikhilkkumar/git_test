@@ -1,1 +1,3 @@
 Good Morning!
+
+Git and CLI is essential for theis coding shit
